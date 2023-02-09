@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\bin\Debug\net6.0\ExemploAppConsole.exe
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\bin\Debug\net6.0\ExemploAppConsole.deps.json
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\bin\Debug\net6.0\ExemploAppConsole.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\bin\Debug\net6.0\ExemploAppConsole.dll
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\bin\Debug\net6.0\ExemploAppConsole.pdb
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.dll
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\refint\ExemploAppConsole.dll
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.pdb
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ExemploAppConsole.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\ExemploAppConsole\ExemploAppConsole\obj\Debug\net6.0\ref\ExemploAppConsole.dll
