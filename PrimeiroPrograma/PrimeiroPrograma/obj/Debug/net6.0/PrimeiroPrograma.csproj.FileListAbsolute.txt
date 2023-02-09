@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.exe
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.deps.json
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.dll
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.dll
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\refint\PrimeiroPrograma.dll
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\ref\PrimeiroPrograma.dll
