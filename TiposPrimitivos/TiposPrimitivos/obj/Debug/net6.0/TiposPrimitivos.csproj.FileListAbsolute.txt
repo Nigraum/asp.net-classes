@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\bin\Debug\net6.0\TiposPrimitivos.exe
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\bin\Debug\net6.0\TiposPrimitivos.deps.json
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\bin\Debug\net6.0\TiposPrimitivos.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\bin\Debug\net6.0\TiposPrimitivos.dll
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\bin\Debug\net6.0\TiposPrimitivos.pdb
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.dll
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\refint\TiposPrimitivos.dll
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.pdb
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\TiposPrimitivos.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\TiposPrimitivos\TiposPrimitivos\obj\Debug\net6.0\ref\TiposPrimitivos.dll
