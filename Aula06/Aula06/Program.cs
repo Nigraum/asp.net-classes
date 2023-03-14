@@ -1,11 +1,18 @@
-﻿Console.Write("Digite um número entre 1 e 10: ");
-int n = Convert.ToInt32(Console.ReadLine());
+﻿int hora = DateTime.Now.Hour;
+string message = string.Empty;
 
-if(n > 10 || n < 1)
+switch (hora)
 {
-    Console.Write("O número não está entre 1 e 10");
-}
-else
-{
-    Console.Write("Obrigado.");
+    case 10:
+    case 15:
+        message = "Hora do intervalo.";
+        break;
+
+    case 12:
+        message = "Almoço";
+        break;
+   
+    default:
+        message = string.Empty;
+        break;
 }
