@@ -1,7 +1,7 @@
 ﻿Console.Write("Digite um número entre 1 e 10: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-if(n > 10)
+if(n > 10 || n < 1)
 {
     Console.Write("O número não está entre 1 e 10");
 }
