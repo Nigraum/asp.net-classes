@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\bin\Debug\net6.0\Aula06Atv01.exe
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\bin\Debug\net6.0\Aula06Atv01.deps.json
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\bin\Debug\net6.0\Aula06Atv01.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\bin\Debug\net6.0\Aula06Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\bin\Debug\net6.0\Aula06Atv01.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\refint\Aula06Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\Aula06Atv01.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\Aula06Atv01\Aula06Atv01\obj\Debug\net6.0\ref\Aula06Atv01.dll
