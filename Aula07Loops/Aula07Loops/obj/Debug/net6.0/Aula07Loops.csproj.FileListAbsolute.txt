@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\bin\Debug\net6.0\Aula07Loops.exe
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\bin\Debug\net6.0\Aula07Loops.deps.json
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\bin\Debug\net6.0\Aula07Loops.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\bin\Debug\net6.0\Aula07Loops.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\bin\Debug\net6.0\Aula07Loops.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\refint\Aula07Loops.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\Aula07Loops.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Loops\Aula07Loops\obj\Debug\net6.0\ref\Aula07Loops.dll
