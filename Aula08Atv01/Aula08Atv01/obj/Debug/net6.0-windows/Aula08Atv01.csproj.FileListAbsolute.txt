@@ -1,0 +1,17 @@
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\bin\Debug\net6.0-windows\Aula08Atv01.exe
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\bin\Debug\net6.0-windows\Aula08Atv01.deps.json
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\bin\Debug\net6.0-windows\Aula08Atv01.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\bin\Debug\net6.0-windows\Aula08Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\bin\Debug\net6.0-windows\Aula08Atv01.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.Form1.resources
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.csproj.GenerateResource.cache
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\refint\Aula08Atv01.dll
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\Aula08Atv01.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\Aula08Atv01\Aula08Atv01\obj\Debug\net6.0-windows\ref\Aula08Atv01.dll
