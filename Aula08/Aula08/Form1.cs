@@ -6,5 +6,15 @@ namespace Aula08
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Bem Vindo ao curso de C#";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
