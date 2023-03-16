@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\bin\Debug\net6.0\Aula07Atv01Tabuada.exe
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\bin\Debug\net6.0\Aula07Atv01Tabuada.deps.json
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\bin\Debug\net6.0\Aula07Atv01Tabuada.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\bin\Debug\net6.0\Aula07Atv01Tabuada.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\bin\Debug\net6.0\Aula07Atv01Tabuada.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\refint\Aula07Atv01Tabuada.dll
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\Aula07Atv01Tabuada.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\Aula07Atv01Tabuada\Aula07Atv01Tabuada\obj\Debug\net6.0\ref\Aula07Atv01Tabuada.dll
