@@ -1,0 +1,15 @@
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\bin\Debug\net6.0\Aula09Arrays.exe
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\bin\Debug\net6.0\Aula09Arrays.deps.json
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\bin\Debug\net6.0\Aula09Arrays.runtimeconfig.json
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\bin\Debug\net6.0\Aula09Arrays.dll
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\bin\Debug\net6.0\Aula09Arrays.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.csproj.AssemblyReference.cache
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.AssemblyInfoInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.AssemblyInfo.cs
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.dll
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\refint\Aula09Arrays.dll
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.pdb
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\Aula09Arrays.genruntimeconfig.cache
+C:\Users\Yan\Documents\ASP.NET\Aula09Arrays\Aula09Arrays\obj\Debug\net6.0\ref\Aula09Arrays.dll
